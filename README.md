@@ -1,7 +1,7 @@
 🐧 Install Visual-Studi-Code in Linux.
 
 
- #Debian and Ubuntu based distribution
+ ```Debian and Ubuntu based distribution```
 
 - Easiest way to download VsCode for Debian/Ubuntu based distributions is to download and install the [.deb package ](https://go.microsoft.com/fwlink/?LinkID=760868)
 - After Downloading the .deb package, Open the Terminal, Cd to the .deb package.
